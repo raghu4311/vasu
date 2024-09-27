@@ -6,3 +6,5 @@ else:
 
 def palandrom(word):
     return word==word[::-1]
+def raghu(l):
+    return "hi"
